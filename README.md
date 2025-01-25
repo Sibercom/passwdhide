@@ -12,4 +12,6 @@ Program güncellemesi yaparken eski sürüm klasörünün içine yeni sürüm in
 
 Kötü niyetli biri eğer 'passwd.txt' dosyanızı silerse, backup butonu ile dosyanızın en son halini geri getirebileceksiniz. Bu özelliği kullanabilmeniz için gereken sürüm 4.0
 
+Şifre oluşturma ile ilgili hatalar düzeltildi.
+
 ![image_alt](https://github.com/Sibercom/passwdhide/blob/cec32a78103215ee6c3f700f7586b9a83218a3c5/resim_2025-01-21_170825216.png)
