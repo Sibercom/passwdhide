@@ -1,6 +1,6 @@
 Şifrelerinizi çevrimdışı bilgisayarınızda saklamanıza olanak tanır.
 
-Sürüm 3.0 [Bugün saat 14:00 yeni güncelleme 3.0]
+Sürüm 3.0 [25.01.2025 saat 14:00 yeni güncelleme 3.0]
 
 Uygulama içindeki '?' basarak detayları inceleyiniz.
 
