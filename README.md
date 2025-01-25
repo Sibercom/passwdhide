@@ -4,9 +4,9 @@ Sürüm 2.0
 
 Uygulama içindeki '?' basarak detayları inceleyiniz.
 
-Bilgisayarınız içindeki başka kullanıcılardan korunmanın yolu sürüm 2.0 ve üstünü kullanmaktır.
+Bilgisayarınız içindeki başka kullanıcılardan korunmanın yolu sürüm 3.0 ve üstünü kullanmaktır.
 
-Gelecek sürüm 3.0 tarihi 20.02.2025
+Gelecek sürüm 3.0 tarihi 25.01.2025
 
 Program güncellemesi yaparken eski sürüm klasörünün içine yeni sürüm indirdiğiniz dosyaları atınız. Hedefteki klasör ile aynı olanları değiştiriniz. 'passwd.txt' dosyanızı aynı klasörde tutarak yeni indirdiğiniz exe yi klasör içinde çalıştırınız.
 
