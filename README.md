@@ -32,4 +32,6 @@ Gizli not defteri için çalışıyoruz.
 
 Sürüm 5.0  Gizli not defteri en basit hali ve en güvenli hali ile sizlerle.
 
+Sürüm 6.0 Çeşitli hatalar giderildi. Güncelleme sistemi hatasız eklendi.
+
 ![image_alt](https://github.com/Sibercom/passwdhide/blob/cec32a78103215ee6c3f700f7586b9a83218a3c5/resim_2025-01-21_170825216.png)
